@@ -19,4 +19,3 @@ I'm a Backend Developer :smile:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kaillanecmartins)](https://github.com/kaillanecmartins)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kaillane-martins-0404a5263/)](https://www.linkedin.com/in/kaillane-martins-0404a5263/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=kaillanemartins18@gmail.com)](kaillanemartins18@gmail.com)
