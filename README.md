@@ -16,6 +16,6 @@ I'm a student of Information Systems 👩‍💻
 
 ## Profile:
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=KaillaneMartins&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/kaillanecmartins)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=kaillanecmartins&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/kaillanecmartins)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/kaillanecmartins)
