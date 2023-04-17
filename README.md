@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Kaillane!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kaillanecmartins)](https://github.com/kaillanecmartins)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kaillane-martins-0404a5263/)](https://www.linkedin.com/in/kaillane-martins-0404a5263/)
-
 ## About me:
 
 I'm a Backend Developer :smile:
