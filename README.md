@@ -1,4 +1,4 @@
-## Olá! Eu sou Kaillane!
+## Hi! I’m Kaillane!
 
 #### 🌱 I’m currently learning python
 
