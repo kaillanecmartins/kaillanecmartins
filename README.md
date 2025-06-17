@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0678&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7916fa&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Kaillane;I+study+Information+Systems+at+IFMA;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7916fa&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Kaillane!;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaillanecmartins&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&title_color=7916fa&icon_color=7916fa&text_color=c9d1d9&bg_color=0d1117" alt="Kaillane Martins github stats" /> 
