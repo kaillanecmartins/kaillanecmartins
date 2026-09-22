@@ -1,7 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0678&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7916fa&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Kaillane!;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
- 
+
+<div align="center">
+  <img
+    width="49%"
+    height="195px"
+    src="./profile/stats.svg"
+    alt="Kaillane Martins github stats"
+  /><img
+    width="41%"
+    height="195px"
+    src="./profile/top-langs.svg"
+    alt="Kaillane Martins top languages"
+  />
+</div>
+
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp; 
